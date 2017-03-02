@@ -1,0 +1,36 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">News Hub</string>
+
+    <!-- Name for Settings in menu -->
+    <string name="settings">Settings</string>
+
+    <!-- Summary for selecting source in settings menu -->
+    <string name="summary"></string>
+
+    <!--No internet connection-->
+    <string name="no_internet">Please check your internet connection.</string>
+
+    <!--Pass the URL-->
+    <string name="pass_url">URL</string>
+
+    <!--Source URL-->
+    <string name="source_url">https://newsapi.org/v1/sources?language=en</string>
+
+    <!--News Base URL-->
+    <string name="base_url">https://newsapi.org/v1/articles?source=</string>
+
+    <!--Source String-->
+    <string name="source_string">source</string>
+
+    <!--Default source string-->
+    <string name="default_source_string">techcrunch</string>
+
+    <!--Loader not implemented error message-->
+    <string name="loader_not_implemented">Loader Not Implemented: </string>
+
+    <!-- ADS id -->
+    <string name="banner_ad_unit_id">ca-app-pub-2644731424337282/8948167453</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+
+</resources>
